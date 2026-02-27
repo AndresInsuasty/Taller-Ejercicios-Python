@@ -6,12 +6,69 @@
 
 ## Instrucciones de Entrega
 
-| Campo | Valor |
-|-------|-------|
-| **Correo** | andresinsuastyd10@gmail.com |
-| **Asunto** | CESMAG-ENTREGA 2. |
-| **Fecha límite** | Jueves 5 de marzo, 11:59 PM |
-| **Formato** | Link a repositorio GitHub |
+**Fecha límite:** Jueves 5 de marzo, 11:59 PM
+
+### Paso 1: Fork del Repositorio
+
+Debe hacer un **fork** de este repositorio a su cuenta de GitHub.
+
+¿No sabes cómo hacer un fork? Mira este video tutorial: [Cómo hacer un Fork en GitHub](https://www.youtube.com/watch?v=3m7Z3g_U-Cs)
+
+### Paso 2: Completar las Soluciones
+
+Clone su fork y complete los 30 ejercicios en la carpeta `soluciones/`. Actualice el README con las respuestas correctas.
+
+### Paso 3: Pull Request
+
+Una vez completado, cree un **Pull Request (PR)** hacia el repositorio principal. 
+
+**Recursos útiles:**
+- [Guía de Pull Requests en GitHub](https://www.youtube.com/watch?v=Zqft6yNRuNs)
+
+**El PR debe incluir:**
+- Código de las 30 soluciones en `soluciones/`
+- README actualizado con todas las respuestas
+- Descripción clara de su trabajo
+- Cualquier mejora o documentación adicional que considere relevante
+
+### Importante
+
+⚠️ **Puede modificar cualquier archivo del repositorio EXCEPTO el archivo `data/personas.csv`**
+
+Siéntase libre de mejorar:
+- Documentación adicional
+- Scripts de verificación
+- Visualizaciones
+- Organización del código
+- Cualquier otra mejora que considere valiosa
+
+---
+
+## Rúbrica de Calificación
+
+### Requisitos Mínimos (Aprobado)
+- ✅ Las 30 soluciones implementadas en `soluciones/`
+- ✅ Todas las respuestas verificadas y correctas
+- ✅ README actualizado con las respuestas
+- ✅ Código limpio y funcional
+
+### Puntaje Extra (Ganador del PR)
+
+**🏆 El Pull Request mejor presentado será aceptado y se convertirá en la versión oficial del taller.**
+
+**Beneficios del ganador:**
+- Su PR será merged al repositorio principal
+- Su trabajo se convertirá en la referencia oficial del taller
+- **+1.0 punto adicional en la calificación final**
+
+**Criterios de evaluación para el mejor PR:**
+- 📊 Calidad del código y organización
+- 📝 Claridad de la documentación
+- 🎨 Presentación profesional del repositorio
+- 💡 Mejoras o aportes adicionales al proyecto
+- ✨ Creatividad en la presentación de resultados
+
+**Nota:** Todas las soluciones serán verificadas automáticamente. Resultados incorrectos descalificarán automáticamente al participante.
 
 ---
 
